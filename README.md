@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pham2jt
+- 👀 I’m interested in software development and robotics!
+- 🌱 I’m currently in school at James Madison University
